@@ -1,0 +1,32 @@
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Pag-asa Multipurpose Cooperative.exe.config
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Pag-asa Multipurpose Cooperative.exe
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Pag-asa Multipurpose Cooperative.pdb
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Pag-asa Multipurpose Cooperative.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.Resources.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.vbproj.GenerateResource.cache
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.vbproj.CoreCompileInputs.cache
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.exe
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.pdb
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.FRMMAIN.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Guna.UI2.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.vbproj.CopyComplete
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.usrctrldashboard.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.userctrlusermanagement.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.frmlogin.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Google.Protobuf.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\MySql.Data.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.usrctrlloantransaction.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\ZstdNet.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Buffers.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.exe.config
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Memory.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.vbproj.AssemblyReference.cache

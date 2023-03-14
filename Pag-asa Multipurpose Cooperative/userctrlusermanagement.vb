@@ -1,6 +1,6 @@
 ﻿Public Class userctrlusermanagement
     Private Sub userctrlusermanagement_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        Me.User_tableTableAdapter.Fill(Me.Pmc_dbDataSet1.user_table)
     End Sub
 
     Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) Handles txtconfirmpass.TextChanged

@@ -21,12 +21,22 @@ C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multip
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag_asa_Multipurpose_Cooperative.usrctrlloantransaction.resources
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\ZstdNet.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Compression.LZ4.Streams.dll
-C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Ubiety.Dns.Core.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Buffers.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Compression.LZ4.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Hash.xxHash.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\MySql.Data.EntityFramework.xml
-C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.exe.config
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Memory.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\obj\Debug\Pag-asa Multipurpose Cooperative.vbprojAssemblyReference.cache
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\MySql.Data.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Google.Protobuf.pdb
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\Google.Protobuf.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Buffers.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Memory.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\Pag-asa Multipurpose Cooperative\Pag-asa Multipurpose Cooperative\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

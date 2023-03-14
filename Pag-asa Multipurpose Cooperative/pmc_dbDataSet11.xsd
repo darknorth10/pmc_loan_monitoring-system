@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="pmc_dbDataSet1" targetNamespace="http://tempuri.org/pmc_dbDataSet11.xsd" xmlns:mstns="http://tempuri.org/pmc_dbDataSet11.xsd" xmlns="http://tempuri.org/pmc_dbDataSet11.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="pmc_dbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="pmc_dbConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Pag_asa_Multipurpose_Cooperative.My.MySettings.GlobalReference.Default.pmc_dbConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="user_tableTableAdapter" GeneratorDataComponentClassName="user_tableTableAdapter" Name="user_table" UserDataComponentName="user_tableTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="pmc_dbConnectionString (MySettings)" DbObjectName="pmc_db.user_table" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `username`, `password`, `status`, `type` FROM `user_table`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="pmc_dbDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="pmc_dbDataSet1" msprop:Generator_UserDSName="pmc_dbDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="user_table" msprop:Generator_TableClassName="user_tableDataTable" msprop:Generator_TableVarName="tableuser_table" msprop:Generator_TablePropName="user_table" msprop:Generator_RowDeletingName="user_tableRowDeleting" msprop:Generator_RowChangingName="user_tableRowChanging" msprop:Generator_RowEvHandlerName="user_tableRowChangeEventHandler" msprop:Generator_RowDeletedName="user_tableRowDeleted" msprop:Generator_UserTableName="user_table" msprop:Generator_RowChangedName="user_tableRowChanged" msprop:Generator_RowEvArgName="user_tableRowChangeEvent" msprop:Generator_RowClassName="user_tableRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

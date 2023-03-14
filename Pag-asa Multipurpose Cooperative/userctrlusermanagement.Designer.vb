@@ -22,6 +22,7 @@ Partial Class userctrlusermanagement
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Me.btnadduser = New Guna.UI2.WinForms.Guna2Button()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.Guna2TextBox1 = New Guna.UI2.WinForms.Guna2TextBox()
@@ -37,7 +38,14 @@ Partial Class userctrlusermanagement
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.cbostatus = New System.Windows.Forms.ComboBox()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.Pmc_dbDataSet1 = New Pag_asa_Multipurpose_Cooperative.pmc_dbDataSet1()
+        Me.UsertableBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.User_tableTableAdapter = New Pag_asa_Multipurpose_Cooperative.pmc_dbDataSet1TableAdapters.user_tableTableAdapter()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.Pmc_dbDataSet1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.UsertableBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'btnadduser
@@ -239,11 +247,40 @@ Partial Class userctrlusermanagement
         Me.cbostatus.Size = New System.Drawing.Size(149, 28)
         Me.cbostatus.TabIndex = 10
         '
+        'DataGridView1
+        '
+        Me.DataGridView1.AllowUserToAddRows = False
+        Me.DataGridView1.AllowUserToDeleteRows = False
+        Me.DataGridView1.AutoGenerateColumns = False
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.DataSource = Me.UsertableBindingSource
+        Me.DataGridView1.Location = New System.Drawing.Point(37, 420)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.ReadOnly = True
+        Me.DataGridView1.RowTemplate.Height = 24
+        Me.DataGridView1.Size = New System.Drawing.Size(1066, 269)
+        Me.DataGridView1.TabIndex = 12
+        '
+        'Pmc_dbDataSet1
+        '
+        Me.Pmc_dbDataSet1.DataSetName = "pmc_dbDataSet1"
+        Me.Pmc_dbDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'UsertableBindingSource
+        '
+        Me.UsertableBindingSource.DataMember = "user_table"
+        Me.UsertableBindingSource.DataSource = Me.Pmc_dbDataSet1
+        '
+        'User_tableTableAdapter
+        '
+        Me.User_tableTableAdapter.ClearBeforeFill = True
+        '
         'userctrlusermanagement
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
+        Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.cbostatus)
         Me.Controls.Add(Me.Label4)
@@ -258,6 +295,9 @@ Partial Class userctrlusermanagement
         Me.Name = "userctrlusermanagement"
         Me.Size = New System.Drawing.Size(1186, 720)
         Me.GroupBox1.ResumeLayout(False)
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.Pmc_dbDataSet1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.UsertableBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -278,4 +318,8 @@ Partial Class userctrlusermanagement
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
     Friend WithEvents cbostatus As ComboBox
+    Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents UsertableBindingSource As BindingSource
+    Friend WithEvents Pmc_dbDataSet1 As pmc_dbDataSet1
+    Friend WithEvents User_tableTableAdapter As pmc_dbDataSet1TableAdapters.user_tableTableAdapter
 End Class

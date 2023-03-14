@@ -130,11 +130,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="pmc_dbDataSet2.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>pmc_dbDataSet2.xsd</DependentUpon>
-    </Compile>
     <Compile Include="userctrlusermanagement.Designer.vb">
       <DependentUpon>userctrlusermanagement.vb</DependentUpon>
     </Compile>
@@ -190,17 +185,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="pmc_dbDataSet2.xsc">
-      <DependentUpon>pmc_dbDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="pmc_dbDataSet2.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>pmc_dbDataSet2.Designer.vb</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="pmc_dbDataSet2.xss">
-      <DependentUpon>pmc_dbDataSet2.xsd</DependentUpon>
-    </None>
     <None Include="Resources\group.png" />
   </ItemGroup>
   <ItemGroup>

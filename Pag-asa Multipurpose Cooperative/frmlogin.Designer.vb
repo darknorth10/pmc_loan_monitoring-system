@@ -98,7 +98,7 @@ Partial Class frmlogin
         Me.txtpassword.Location = New System.Drawing.Point(767, 351)
         Me.txtpassword.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.txtpassword.Name = "txtpassword"
-        Me.txtpassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtpassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtpassword.PlaceholderText = "Password"
         Me.txtpassword.SelectedText = ""
         Me.txtpassword.ShadowDecoration.Parent = Me.txtpassword
